@@ -1,0 +1,6 @@
+{
+  "name": "mundo calmo",
+  "description": "Jogos sensoriais calmos e educativos para crianças autistas: Encontre o Par, Bolinhas das Cores, Simon Dice e Complete a Sequência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

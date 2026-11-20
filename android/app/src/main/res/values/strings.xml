@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">mundo calmo</string>
+    <string name="title_activity_main">mundo calmo</string>
+    <string name="package_name">com.mundocalmo.app</string>
+    <string name="custom_url_scheme">com.mundocalmo.app</string>
+</resources>
